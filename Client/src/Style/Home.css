@@ -1,0 +1,152 @@
+
+#divBg_1{
+    background-image:url("../assets/images/bg_1.jpg");
+    height: 700px; 
+    /* background-position: center; */
+            /* background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+}
+#divBg_2{
+    background-image:url("../assets/images/bg_2.jpg");
+    height: 700px;
+    /* background-position: center; */
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+}
+#divBg_3{
+    background-image: url("../assets/images/bg_3.jpg");
+    height: 700px; 
+
+}
+#divCategory{
+    background-image:url("../assets/images/category.jpg")
+}
+#divCategory1{
+    background-image:url("../assets/images/category1.jpg");
+    
+    height: 260px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+}
+#divCategory2{
+    background-image:url("../assets/images/category2.jpg");
+    
+    height: 260px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+}
+#divCategory3{
+    background-image:url("../assets/images/category3.jpg");
+    
+    height: 260px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+}
+#divCategory4{
+    background-image:url("../assets/images/category4.jpg");
+    
+    height: 260px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+}
+.bg-text {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-family:"Ink Free";
+    font-weight: bold;
+    font-size: 120%;
+    border: 10px solid #f1f1f1;
+    margin-top: 30%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 100%;
+    padding: 40px;
+    text-align: center;
+  }
+
+  /* .bg-text_Cart {
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.4); 
+    color: white;
+    font-family:"Ink Free";
+    font-weight: bold;
+    font-size: 120%;
+    border: 10px solid #f1f1f1;
+    margin-top: 20%;
+    margin-left: -70%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 40%;
+    padding: 40px;
+    text-align: center;
+  } */
+
+  #person1{
+      /* background-image:url("../assets/images/person_1.jpg"); */
+      height: 300px;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+  }
+
+  #div_bgCart{
+    background-image:url("../assets/images/view1.jpg");
+    height: 400px;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          position: relative;
+  }
+
+
+.btnChangeColor {
+  color: rgb(122,196,233);
+  border-color: black; 
+  background-color: "rgb(122,196,233)";
+  border-radius: 200px;
+  padding:7%;
+}
+
+.btnChangeColor:hover {
+    color: rgb(122,196,233);
+    background-color: rgb(240, 242, 243);
+    border: rgb(122,196,233) 1px solid;
+    border-radius: 150px;
+    padding:7%;
+    text-decoration: none;
+ }
+
+
+ .btnPage {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: white;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius:50%;
+}
+
+/* Style the active class, and buttons on mouse-over */
+.active, .btnPage:hover {
+  background-color: "rgb(122,196,233)";
+  color: white;
+}
+
+
+
+
+

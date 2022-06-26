@@ -1,0 +1,338 @@
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.exe
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.deps.json
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.json
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.dev.json
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.AssemblyReference.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfoInputs.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfo.cs
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ZmedicairWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ZmedicairWebAPI.StaticWebAssets.xml
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ZmedicairWebAPI.styles.css
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CopyComplete
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.genruntimeconfig.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.AssemblyReference.cache
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfoInputs.cache
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfo.cs
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.exe
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.deps.json
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.json
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.dev.json
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.RazorTargetAssemblyInfo.cache
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CopyComplete
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.genruntimeconfig.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.exe
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.deps.json
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.json
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.dev.json
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.AssemblyReference.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfoInputs.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfo.cs
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.RazorTargetAssemblyInfo.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CopyComplete
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.genruntimeconfig.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.exe
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.deps.json
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.json
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.dev.json
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.AssemblyReference.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfoInputs.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfo.cs
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CopyComplete
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.genruntimeconfig.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.exe
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.deps.json
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.json
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.runtimeconfig.dev.json
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.AssemblyReference.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfoInputs.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.AssemblyInfo.cs
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.csproj.CopyComplete
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\Zmedicair_WebAPI\obj\Debug\netcoreapp3.1\ZmedicairWebAPI.genruntimeconfig.cache

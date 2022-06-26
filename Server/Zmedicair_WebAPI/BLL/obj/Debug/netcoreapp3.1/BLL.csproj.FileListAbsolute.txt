@@ -1,0 +1,75 @@
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\נעמי מינצר\Desktop\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר סופי\פרויקט גמר\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\פרויקט סופי\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Shira\Desktop\פרויקט גמר\Server\Zmedicair_WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
